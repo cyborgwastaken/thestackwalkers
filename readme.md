@@ -6,15 +6,17 @@ This repository contains the **final integrated version** of our hackathon proje
 
 Below are the individual repositories we worked on during the hackathon:
 
-- 🔗 [Financial Data Agents]([https://github.com/your-org/financial-data-agent](https://github.com/Sandeep-622/mcp-agent))  
+- 🔗 [Financial Data Agents](https://github.com/Sandeep-622/mcp-agent)  
   Handles secure access and processing of user financial data like bank balances, credit reports, and investments.
 
 - 🔗 [Frontend Dashboard](https://github.com/Sandeep-622/smartInvestment)  
   A user-friendly interface to interact with the financial assistant, visualize reports, and manage preferences.
 
-- 🔗 [MCP Server Adapter](https://github.com/Sandeep-622/smartInvestment)  
+- 🔗 [Fi Money mock MCP Server ](https://github.com/Sandeep-622/smartInvestment)  
   Bridges our AI agents with the MCP server for fetching real user data in a sandbox/test setup.
-
+  
+-🔗 [Fi Money mock MCP Server ](https://drive.google.com/drive/folders/1DjaY1NWDhqxH64z8bDqYCzu-eNAjh-dk) 
+  Drive link to our PPT and Demo Video.
 ## 🧩 Purpose of This Repo
 
 This is the **combined repo** where all the modules have been integrated and fine-tuned to work together seamlessly. If you're looking for the final working demo or want to deploy the full solution, this is the place!
