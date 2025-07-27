@@ -1,3 +1,25 @@
+# 🛠️ Hackathon Project – Combined Repository
+
+This repository contains the **final integrated version** of our hackathon project, bringing together multiple components developed across different GitHub repositories. Each sub-module was built independently and merged here for a unified experience.
+
+## 📦 Component Repositories
+
+Below are the individual repositories we worked on during the hackathon:
+
+- 🔗 [Financial Data Agents]([https://github.com/your-org/financial-data-agent](https://github.com/Sandeep-622/mcp-agent))  
+  Handles secure access and processing of user financial data like bank balances, credit reports, and investments.
+
+- 🔗 [Frontend Dashboard](https://github.com/Sandeep-622/smartInvestment)  
+  A user-friendly interface to interact with the financial assistant, visualize reports, and manage preferences.
+
+- 🔗 [MCP Server Adapter](https://github.com/Sandeep-622/smartInvestment)  
+  Bridges our AI agents with the MCP server for fetching real user data in a sandbox/test setup.
+
+## 🧩 Purpose of This Repo
+
+This is the **combined repo** where all the modules have been integrated and fine-tuned to work together seamlessly. If you're looking for the final working demo or want to deploy the full solution, this is the place!
+
+
 # fi-mcp-dev
 
 A minimal, hackathon-ready version of the Fi MCP server. This project provides a lightweight mock server for use in hackathons, demos, and development, simulating the core features of the production Fi MCP server with dummy data and simplified authentication.
